@@ -10,4 +10,4 @@ powerbi_url = 'https://app.powerbi.com/reportEmbed?reportId=ad9e2c1f-6437-43af-b
 st.components.v1.iframe(src=powerbi_url, width=1200, height=600)
 
 # Explication pour l'utilisateur
-st.write('Le rapport Power BI ci-dessus est intégré directement via un lien public.')
+st.write('Le rapport Power BI ci-dessus est intégré directement via un lien embedded.')
